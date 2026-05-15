@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-cricket.png",Fox Cricket
+
+https://poklis.rontokakishop.online/premium369/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="FoxLeague.au" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-502.png",FOX Sports 502 AU
+
+https://zomis.zempovlantis.online/premium820/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-503.png",FOX Sports 503 AU
+
+https://zomis.zempovlantis.online/premium821/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="FoxFooty.au" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-504.png",FOX Sports 504 AU
+
+https://zomis.zempovlantis.online/premium822/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-505.png",FOX Sports 505 AU
+
+https://zomis.zempovlantis.online/premium823/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-506.png",FOX Sports 506 AU
+
+https://zomis.zempovlantis.online/premium824/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-507.png",FOX Sports 507 AU
+
+https://zomis.zempovlantis.online/premium825/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nfl-network-usa.png",NFL Network
+
+https://zomis.zempovlantis.online/premium405/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nba-tv-usa.png",NBA TV USA
+
+https://zomis.zempovlantis.online/premium404/tracks-v1a1/mono.m3u8
