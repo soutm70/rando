@@ -35,3 +35,64 @@ https://zomis.zempovlantis.online/premium405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nba-tv-usa.png",NBA TV USA
 
 https://zomis.zempovlantis.online/premium404/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANADA" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn1.png",TSN1
+
+https://zomis.zempovlantis.online/premium111/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANADA" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn2.png",TSN2
+
+https://zomis.zempovlantis.online/premium112/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANADA" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn3.png",TSN3
+
+https://zomis.zempovlantis.online/premium113/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANADA" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn4.png",TSN4
+
+https://zomis.zempovlantis.online/premium114/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANADA" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn5.png",TSN5
+
+https://zomis.zempovlantis.online/premium115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-1-nz.png",Sky Sport 1 NZ
+
+https://agelis.voglempanis.online/premium598/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-2-nz.png",Sky Sport 2 NZ
+
+https://agelis.voglempanis.online/premium599/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-3-nz.png",Sky Sport 3 NZ
+
+https://agelis.voglempanis.online/premium590/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-4-nz.png",Sky Sport 4 NZ
+
+https://agelis.voglempanis.online/premium591/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-5-nz.png",Sky Sport 5 NZ
+
+https://agelis.voglempanis.online/premium592/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-6-nz.png",Sky Sport 6 NZ
+
+https://agelis.voglempanis.online/premium593/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-7-nz.png",Sky Sport 7 NZ
+
+https://agelis.voglempanis.online/premium594/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.8.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-8-nz.png",Sky Sport 8 NZ
+
+https://agelis.voglempanis.online/premium595/index.m3u8
+
+#EXTINF:-1 group-title="NEW ZEALAND" tvg-id="Sky.Sport.9.nz" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-9-nz.png",Sky Sport 9 NZ
+
+https://agelis.voglempanis.online/premium596/index.m3u8
+
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/golf-channel.png",GOLF Channel USA
+
+https://zomis.zempovlantis.online/premium318/tracks-v1a1/mono.m3u8
+
